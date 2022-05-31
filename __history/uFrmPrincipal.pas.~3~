@@ -1,0 +1,32 @@
+unit uFrmPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.DBCtrls, Vcl.Mask;
+
+type
+  TFrmPrincipal = class(TForm)
+    Label1: TLabel;
+    Label2: TLabel;
+    DBEdit2: TDBEdit;
+    DBEdit1: TDBEdit;
+    Label3: TLabel;
+    DBCheckBox1: TDBCheckBox;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmPrincipal: TFrmPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+uses uDM;
+
+end.

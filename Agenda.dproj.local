@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/01 20:23:48.000.460,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/01 20:24:24.000.012,C:\Users\user\Documents\Delphi\AgendaContatos\uFrmPrincipal.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/01 20:24:24.000.012,C:\Users\user\Documents\Delphi\AgendaContatos\uFrmPrincipal.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/01 20:24:35.000.367,C:\Users\user\Documents\Delphi\AgendaContatos\Agenda.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/01 20:29:15.000.727,=C:\Users\user\Documents\Delphi\AgendaContatos\Unit1.pas</Transaction>
+    <Transaction>2021/11/01 20:30:18.000.725,C:\Users\user\Documents\Delphi\AgendaContatos\uDM.dfm=C:\Users\user\Documents\Delphi\AgendaContatos\Unit1.dfm</Transaction>
+    <Transaction>2021/11/01 20:30:18.000.725,C:\Users\user\Documents\Delphi\AgendaContatos\uDM.pas=C:\Users\user\Documents\Delphi\AgendaContatos\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
